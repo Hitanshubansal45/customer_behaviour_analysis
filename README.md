@@ -114,5 +114,4 @@ To build a complete analytics pipeline that:
 ---
 
 ## Screenshots  
-
-### 📊[Dashboard Preview](https://github.com/Hitanshubansal45/customer_behaviour_analysis/blob/main/Customer%20Behaviour%20Dashboard.png)
+![Dashboard Preview](https://github.com/Hitanshubansal45/customer_behaviour_analysis/blob/main/Customer%20Behaviour%20Dashboard.png)
